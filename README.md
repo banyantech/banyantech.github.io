@@ -1,4 +1,4 @@
 banyantech.github.io
 ====================
 
-banyantech
+banyantech.net
