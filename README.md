@@ -1,4 +1,1 @@
-banyantech.github.io
-====================
-
-banyantech
+Banyan
