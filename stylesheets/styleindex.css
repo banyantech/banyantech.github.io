@@ -1,0 +1,66 @@
+
+	body{
+	background-color:white;
+		}
+	h1
+	{
+		font-family:"Arieal";
+		font:color:#EFFBF8;
+		color:#EFFBF8;
+		font-size:20px;
+		text-align:left;
+
+	}
+
+	#header
+	{
+	background-image:url(../images/exp-background1.jpg);
+	background-repeat: no-repeat;
+        background-color:#81BEF7;
+	background-size: cover;
+
+	}
+
+	#footer {
+        position:absolute;
+        bottom:0;
+        width:100%;
+        height:60px;   /* Height of the footer */
+        background-image:url(../images/exp-background1.jpg);
+	background-repeat: no-repeat;
+        background-color:#81BEF7;
+	background-size: cover;
+	font:color:#EFFBF8;
+        }
+	
+	#content
+	{
+            height:80%;
+	}
+	
+	#content-01 { 
+        position:absolute;left:0;width:33%;
+        } 
+
+        #content-02{ 
+        position:absolute;left:33%;right:33%;
+        } 
+        #content-03{ 
+        position:absolute;right:0;width:33%;
+        }
+ 
+	a{
+	float:center;
+	font:color:#EFFBF8;
+	font-family:"Areial";
+	font-size:15;
+	color:#EFFBF8;
+	margin:0;
+	
+	}
+	p{
+	font:color:#EFFBF8;
+	color:#EFFBF8;
+	}
+
+	
