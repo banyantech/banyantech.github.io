@@ -1,53 +1,60 @@
-
 	body{
+	
 	background-color:white;
+	
 		}
 	h1
 	{
-		font-family:"Arieal";
-		font:color:#EFFBF8;
-		color:#EFFBF8;
-		font-size:20px;
-		text-align:left;
+    
+	font-family:"Arieal";
+	font:color:#EFFBF8;
+	color:#EFFBF8;
+	font-size:20px;
+	text-align:left;
+	align:center;
 
 	}
 
 	#header
 	{
 	background-image:url(../images/exp-background1.jpg);
-	background-repeat: no-repeat;
-        background-color:#81BEF7;
-	background-size: cover;
-
+	background-color:#81BEF7;
+	width:80%;
+	align:center;
+        background-repeat: no-repeat;
+        background-size: cover;
+		
 	}
 
 	#footer {
-        position:absolute;
+        poaition:absolute;
         bottom:0;
-        width:100%;
+        width:80%;
         height:60px;   /* Height of the footer */
         background-image:url(../images/exp-background1.jpg);
-	background-repeat: no-repeat;
         background-color:#81BEF7;
-	background-size: cover;
 	font:color:#EFFBF8;
+	align:center;
+ 	background-repeat: no-repeat;
+        background-size: cover;
         }
 	
 	#content
 	{
-            height:80%;
+	height:480px;
+	
 	}
 	
 	#content-01 { 
-        position:absolute;left:0;width:33%;
-        } 
+    position:absolute;left:10%;width:33%;
+   } 
 
-        #content-02{ 
-        position:absolute;left:33%;right:33%;
-        } 
-        #content-03{ 
-        position:absolute;right:0;width:33%;
-        }
+   #content-02{ 
+   position:absolute;left:33%;right:33%;
+   } 
+   #content-03{ 
+   position:absolute;right:10%;width:33%;
+   }
  
 	a{
 	float:center;
@@ -62,5 +69,3 @@
 	font:color:#EFFBF8;
 	color:#EFFBF8;
 	}
-
-	
